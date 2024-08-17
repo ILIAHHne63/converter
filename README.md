@@ -1,3 +1,3 @@
 # converter
 
-cobverter tg-bot on python in dev branch
+Конвертер валют tg-bot
